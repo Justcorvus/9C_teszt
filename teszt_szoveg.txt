@@ -1,1 +1,2 @@
 Ez egy teszt szöveg a githez.
+Hozzá adok plusz egy sort példának.
